@@ -53,7 +53,7 @@ report:addText(Caatinga.A)
 **Onde:**
  - dofile: vai chamar o conteúdo do arquivo externo a raiz
  - report:addHeading: adiciona um atributo de Títilo (podemos utilizar HTML dentro)
- - report:addText(Caatinga.A): esta função de adicionar texto ao report vai buscar dentro da estrutura **Caating** pelo índice **A**.
+ - report:addText(Caatinga.A): função de adicionar texto ao report vai buscar dentro da estrutura **Caating** pelo índice **A**.
  
 Basicamente estamos informando ao Publish o seguinte: 
 Vá buscar o arquivo **Report_Caatinga.lua**, e agora eu quero usar apenas o índice **A**. 
