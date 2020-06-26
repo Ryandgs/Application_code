@@ -1,7 +1,7 @@
 # Aplicação Nexus
 
 
-![img](https://github.com/CristianoAugustoChico/Application_code/blob/master/Exemplo_Nexus/Imagens/aplicacao.png?raw=true)
+![img](https://github.com/CristianoAugustoChico/Application_code/blob/master/Exemplo_Nexus/Imagens/applicacao.png?raw=true)
 
 
 A aplicação nexus ainda esta em desenvolvimento e vem sendo utilizada para realizar os testes de novas funcionalidades do [Pacote Publish].
